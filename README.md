@@ -9,4 +9,4 @@ Example images thanks to courtesy of The University of Edinburgh. Further redist
 
 Period: 09/2011 - 12/2012
 
-Note: Octave comaptibility requires the package octave-image in version 2.1.1 (currently in development). Snapshot tarbal available at http://carandraug.no-ip.org/blog/?p=51
+Note: Octave comaptibility requires the package octave-image in version at least 2.1.1. Snapshot tarbal available at http://carandraug.no-ip.org/blog/?p=51
